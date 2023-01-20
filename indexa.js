@@ -163,7 +163,7 @@ $(document).ready(function () {
         } else {
             wheel.classList.add('super-rotation');
             setTimeout(function () {
-                resultWrapper.style.display = "block";
+                //resultWrapper.style.display = "block";
             }, 8000);
             setTimeout(function () {
                 //$('.spin-wrapper').slideUp();
